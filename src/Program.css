@@ -1,0 +1,117 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+    margin-left:2%;
+    float:left; 
+    height:25%;
+    width:25%;	
+  }
+  
+  .stadium{
+    height: 40vmin;
+    pointer-events: none;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    float:left; 
+    height: 25%;
+    width: 25%;
+  }
+
+  h1{
+    font-size: 50px;
+  }
+
+
+  .btnprogram{
+    background: #2C3333;
+    border-radius: 100px;
+    font-size: calc(2vmin);
+    color: white;
+  }
+
+  .btnprogram:hover{
+    color: white;
+    background: #4f5c5c;
+  
+  }
+
+  .pButton{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  .Program{
+    background-color: #F5F2E7;
+    min-height: 100vh;
+    /*display: flex;
+     flex-direction: column; */
+    font-size: calc(4px + 2vmin);
+    color: black;
+    text-align: left;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+  }
+
+  .Fields{
+    background-color: #395B64;
+    min-height: 40vh;
+    /*display: flex;
+     flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    font-size: calc(4px + 2vmin);
+    color: black;
+    text-align: center;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+  }
+
+  .Contact{
+    background-color: #2666CF;
+    min-height: 40vh;
+    /*display: flex;
+     flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    font-size: calc(4px + 2vmin);
+    color: black;
+    text-align: left;
+  }
+
+
+  .text{
+    width:100%;
+	height:auto;
+	padding:1%;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+
+  .pImage{
+    height: 40vmin;
+    margin-right: 2%;
+    margin-top: 1%;
+    height: 100%;
+    width: 100%;
+    float: left;
+  }
+
+  .pictures{
+    float: left;
+  }
